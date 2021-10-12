@@ -190,7 +190,7 @@
     .navbar-menu{
         position: fixed;
         height: 100vh;
-        width: 100%;
+        width: 30%;
         background-color: rgb(44, 43, 43);
         top: 0;
         right: -100%;
