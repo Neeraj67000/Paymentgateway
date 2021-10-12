@@ -216,12 +216,15 @@
     .menu-toggler.active span:nth-child(1){
         transform: rotate(-45deg);
         top: 4px;
+        transition: .2s linear;
     }
     .menu-toggler.active span:nth-child(2){
       opacity: 0;
+        transition: .2s linear;
     }
     .menu-toggler.active span:nth-child(3){
         transform: rotate(45deg);
         bottom: 14px;
+        transition: .2s linear;
     }
 }
