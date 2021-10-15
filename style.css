@@ -177,6 +177,15 @@
     color: white;
 }
 
+.footer{
+    display: flex;
+    color: white;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+
 @media screen and (max-width:811px){
 
     .menu-toggler{
